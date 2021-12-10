@@ -1,2 +1,2 @@
 # OnlinepedikaRepo
-Online pedika repository
+Online pedika repository.

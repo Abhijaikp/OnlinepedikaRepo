@@ -44,5 +44,5 @@
     <cfif structKeyExists(form,'reset')>
       <cfset structClear(form)>
     </cfif>
-    </cffunction>
+    </cffunction><!---ddd--->
 </cfcomponent>
